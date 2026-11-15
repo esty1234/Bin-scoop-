@@ -1,0 +1,6 @@
+{
+  "name": "IINScope — BIN & Issuer Metadata Registry",
+  "description": "Authorized BIN/IIN metadata lookup and batch screening console for payment routing, issuer identification, and ISO/IEC 7812 structural verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
